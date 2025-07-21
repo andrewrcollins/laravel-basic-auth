@@ -1,5 +1,5 @@
 {
-    "name": "c6digital/laravel-basic-auth",
+    "name": "andrewrcollins/laravel-basic-auth",
     "description": "Add basic authentication to your Laravel project in seconds.",
     "keywords": [
         "C6 Digital",
@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.2",
         "spatie/laravel-package-tools": "^1.16",
-        "illuminate/contracts": "^10.0||^11.0"
+        "illuminate/contracts": "^10.0||^11.0||^12.0"
     },
     "require-dev": {
         "laravel/pint": "^1.14",
